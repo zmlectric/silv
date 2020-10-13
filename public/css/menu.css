@@ -1,0 +1,24 @@
+.navbar-custom {
+    /*background-color: #1a2623 !important;*/
+    height: 30px;
+    margin-top: 20px;
+    z-index: 1;
+}
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+@media (min-width: 992px){
+    .navbar li {
+        margin-left : 2em;
+        margin-right : 2em;
+    }
+}
+
+.navbar-custom ul li a {
+    color: black;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 15px;
+}
