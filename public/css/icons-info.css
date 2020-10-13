@@ -1,0 +1,18 @@
+.img-icons-info {
+    max-width: 12%;
+    /*border: 1px solid blue;*/
+}
+
+.info-text p {
+    text-align: center;
+
+}
+
+p {
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-top: 5em;
+}
+
+h5 {
+    font-family: 'Noto Sans JP', sans-serif;
+}

@@ -1,0 +1,13 @@
+.img-icon {
+    max-width: 60%;
+    -webkit-transition: all 0.5s ease;
+}
+
+.img-icon:hover {
+    transform: scale(1.2);
+}
+
+
+
+
+
